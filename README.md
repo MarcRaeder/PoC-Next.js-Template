@@ -2,7 +2,7 @@
 
 This Repository should show that you can create a Next.js app with your own templates.
 
-the command for this is " npx create-next-app -example <Link to your Template>
+the command for this is " npx create-next-app -example LinkOfYourTemplate "
 
 # How to Test
 
